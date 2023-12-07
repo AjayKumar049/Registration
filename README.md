@@ -7,10 +7,9 @@ installed the Material-UI icons using npm commands i.e.
 
 
 
-![Uploading output.png…]()
 
 
-
+![output](https://github.com/AjayKumar049/Registration/assets/92783730/8d9a3963-e312-403f-81b2-8a327d4c078c)
 
 
 
