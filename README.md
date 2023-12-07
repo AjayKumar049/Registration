@@ -1,3 +1,20 @@
+#While creating a Signup using <b>ReactJs</b> with <b>MaterialUI</b>, installed 
+<b>Material-UI</b> using npm commands <b>npm install @material-ui/core</b> and also
+installed the Material-UI icons using npm commands i.e.
+<b>npm install @material-ui/icons</b>.
+
+#Output
+
+
+
+![Uploading output.png…]()
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
